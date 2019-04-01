@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/ClementWongTO/NCAA_Predictor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+For my final capstone project at BrainStation, I decided to create a machine learning model that would predict the outcome of the 2019 NCAA March Madness Tournament. The data was sourced from the Kaggle competition: “Google Cloud & NCAA ML Competition 2019 – Men’s”. Using the average season statistics, seeding, tournament rating, and region of each game from 2008-2017 to train the model, the model is ultimately able to predict the probability of a team winning given any matchup they might encounter in the tournament. The end goal of this project is to accurately predict as many games correctly as possible, even potentially outperforming the brackets made by FiveThirtyEight and ESPN.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ClementWongTO/NCAA_Predictor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
