@@ -25,9 +25,9 @@ Moving on towards the championship round, Virginia was projected to beat Gonzaga
 | *Virginia*    | *52.79%* |
 
 
-Looking at the bracket overall, as of March 31st, the model correctly predicted 46 out of the 64 games played so far (71.88%).
+Looking at the bracket overall, as of April 8th, the model correctly predicted 48 out of the 67 games played so far (71.64%), including accurately predicting the winner, Virginia.
 
-![BracketResults](https://github.com/ClementWongTO/NCAA_Predictor/blob/master/Visualizations/Bracket_Results_331.png)
+![BracketResults](https://github.com/ClementWongTO/NCAA_Predictor/blob/master/Visualizations/Predicted%20Bracket%20-%20Actual%20Results.png)
 *Above: Green represents correct predictions, orange represents incorrect predictions*
 
 # Analysis
